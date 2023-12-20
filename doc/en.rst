@@ -5,7 +5,6 @@ Deforestation alert analysis
 
 .. note::
 
-    To use this module, you must register to the NICFI – Planet Lab programme and link your account to Google Earth Engine (GEE) (see :doc:`../../setup/nicfi`).
 
 Set up
 ------
